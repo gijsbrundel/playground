@@ -3,15 +3,15 @@ layout: default
 title: Welkom
 ---
 
-# Hallo, ik ben [jouw naam]
+# Hallo,
 
-Welkom op mijn portfolio. Hier kun je mijn werk en blogs bekijken.
+Welkom alhier. Een eerste opzet.
 
 ## Projecten
 - 📁 [Project A](#)
 - 📁 [Project B](#)
 
-## Laatste blogposts
+## Laatste posts
 <ul>
   {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%d %B %Y" }}</li>

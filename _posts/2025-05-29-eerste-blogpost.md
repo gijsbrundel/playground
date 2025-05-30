@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Eerste Blog
+title: Een eerst blog, tblog (test blog), blah of hoe je het ook noemt.
 ---
 
 # Mijn eerste blogpost
 
-Vandaag heb ik mijn persoonlijke website opgezet met Jekyll en GitHub Pages. Spannend!
+Eerst opzet met Jekyll en GitHub Pages.

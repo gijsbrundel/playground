@@ -1,5 +1,6 @@
-title: Mijn Portfolio
-description: Welkom op mijn persoonlijke website
+title: Dit is waar de titel staat
+description: Welkom alhier
 baseurl: ""
-url: "https://jouwgebruikersnaam.github.io"
+#url: "https://gijsbrundel.github.io"
+url: "https://github.com/gijsbrundel/playground"
 theme: minima
